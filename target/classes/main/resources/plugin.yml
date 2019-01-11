@@ -1,0 +1,8 @@
+name: ArchonUUID
+main: main.java.Archon.Main
+version: "1.0"
+api: ["1.0.6"]
+load: POSTWORLD
+author: Archon Klaus
+description: ArchonUUID, shows your UUID at join.
+website: ArchonKlaus.altervista.org
